@@ -1,2 +1,3 @@
 # Miscellanious C# Projects
-Writing small programs to learn C# better
+
+Writing small and simple games to learn C# better on my free time.
