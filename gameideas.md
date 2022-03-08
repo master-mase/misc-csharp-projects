@@ -13,5 +13,3 @@ A list of games I could make. Sorted by difficulty.
 ### 1.2.1. Text-based adventure game
 
 An old school text-based game with no mouse support. Something similar to this: <http://lcs.wikidot.com/>
-
-.
